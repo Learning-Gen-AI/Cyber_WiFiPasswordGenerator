@@ -90,7 +90,7 @@ python main.py
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 ## Disclaimer
 This tool is provided as-is without any warranties. Users are responsible for their own security practices and should follow their organization's security policies.
