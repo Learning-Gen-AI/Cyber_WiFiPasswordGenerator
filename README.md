@@ -38,8 +38,8 @@ This tool implements cybersecurity best practices for secure password generation
 1. Ensure Python 3.8 or higher is installed
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/wifi-password-qr.git
-cd wifi-password-qr
+git clone https://github.com/Learning-Gen-AI/Cyber_WiFiPasswordGenerator.git
+cd Cyber_WiFiPasswordGenerator
 ```
 
 3. Install requirements:
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 1. Run the script:
 ```bash
-python wifi_qr.py
+python main.py
 ```
 
 2. The tool will:
