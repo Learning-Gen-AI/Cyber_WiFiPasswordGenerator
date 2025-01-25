@@ -19,7 +19,7 @@ This tool implements cybersecurity best practices for secure password generation
 - Minimal attack surface through lightweight codebase
 
 ### Password Strength
-- 64-character length exceeds standard requirements
+- 63-character length exceeds standard requirements (the maximum length allowable in both Samsung and iPhone mobile hotspots)
 - Enforces character set complexity:
   - Uppercase letters
   - Lowercase letters
