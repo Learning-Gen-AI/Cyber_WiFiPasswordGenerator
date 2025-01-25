@@ -62,17 +62,17 @@ python main.py
 
 3. To use the generated password (two options):
    
-   Option A - Configure Router:
-   - Scan the QR code with your mobile device
+   Option A - Connecting phone to home WiFi:
    - Copy the password
-   - Enter it in your router's settings interface
-   - Use the password to connect devices to your router's WiFi
+   - Enter it in your router's settings interface and save
+   - Scan the QR code with your mobile device
+   - Copy it and use it to connect your phone to your home WiFi
 
    Option B - Mobile Hotspot:
    - Scan the QR code with your mobile device
    - Copy the password
    - Set it as your mobile hotspot password
-   - Use the password to connect your computer to the mobile hotspot
+   - On the computer, copy the password from the terminal and use it to connect to the mobile hotspot
 
 ## Requirements
 - Python 3.8+
