@@ -1,6 +1,6 @@
 # Secure WiFi Password QR Generator
 
-Generates cryptographically secure 64-character WiFi passwords and displays them as scannable QR codes.
+Generates cryptographically secure 63-character WiFi passwords and displays them as scannable QR codes.
 
 ## Why
 
