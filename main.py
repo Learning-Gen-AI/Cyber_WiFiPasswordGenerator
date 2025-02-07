@@ -3,6 +3,7 @@ import string
 import qrcode
 import tkinter as tk
 from PIL import Image, ImageTk
+import pyperclip
 
 def generate_wifi_password(length=63):
     chars = string.ascii_letters + string.digits + "@#$%&*()-+=[]{}|:,."
@@ -24,6 +25,9 @@ def display_qr():
         password = generate_wifi_password()
     
     print(f"Generated Password: {password}")
+    pyperclip.copy(password)  # Copy password to clipboard
+    print("Password has been copied to clipboard")
+    
     qr = qrcode.make(password)
     
     window = tk.Tk()
